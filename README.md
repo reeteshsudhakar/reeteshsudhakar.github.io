@@ -5,5 +5,6 @@ The page contains a small introduction, a contact form using [Formspree](https:/
 
 #TO-DO
 - [ ] Add waves to page background
+- [ ] Style Fade-in -> see [here](https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08). 
 - [x] Update Background Information
 - [x] Fix Title Headers and Form Integration 
