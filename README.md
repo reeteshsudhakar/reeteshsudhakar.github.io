@@ -5,8 +5,7 @@ The page contains a small introduction, a contact form using [Formspree](https:/
 
 #TO-DO
 - [x] Add favicon
-- [ ] Dark Mode
-- [ ] Loading Page
+- [ ] Particle Animations -> see [here](https://codepen.io/reeteshsudhakar/pen/YzrxGJe)
 - [x] Changing Text Descriptions
 - [x] Style Fade-in -> see [here](https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08). 
 - [x] Update Background Information
