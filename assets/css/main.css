@@ -29,17 +29,6 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-body {
-	line-height: 1;
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-}
-
-.BgClass {
-	background-image: url('assets/images/bg-1.jpg');
-}
-
 ol, ul {
 	list-style: none;
 }
@@ -223,7 +212,7 @@ input, select, textarea {
 			z-index: -1;
 			background-attachment: fixed;
 			background-color: #e1e6e1;
-			/* background-image: url("../../images/overlay.png"), url("../../images/bg.jpg"); */
+			background-image: url("../../images/overlay.png"), url("../../images/bg.jpg");
 			background-repeat: repeat, repeat-x;
 			background-size: 128px 128px, cover;
 		}
