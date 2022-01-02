@@ -3,7 +3,7 @@ I felt like this would be a great side project to build, so I put this website t
 
 The page contains a small introduction, a contact form using [Formspree](https://formspree.io) integration, and contains links to all my relevant social accounts for communication and information. This repository also contains a CNAME redirect file towards my custom domain [reeteshsudhakar.com](https://reeteshsudhakar.com), which has SSL encryption. 
 
-#TO-DO
+# TO-DO
 - [x] Add favicon
 - [ ] Particle Animations -> see [here](https://codepen.io/reeteshsudhakar/pen/YzrxGJe)
 - [x] Changing Text Descriptions
