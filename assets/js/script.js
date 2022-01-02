@@ -4,11 +4,11 @@ particlesJS("particles-js", {
       "value": 400,
       "density": {
         "enable": true,
-        "value_area": 789.1476416322727
+        "value_area": 85
       }
     },
     "color": {
-      "value": "#000000"
+      "value": "#ee6258"
     },
     "shape": {
       "type": "circle",
