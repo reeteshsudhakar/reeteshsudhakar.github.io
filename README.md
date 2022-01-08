@@ -7,10 +7,11 @@ I've been recently tinkering with the website to understand more about design pr
 and JavaScript. In doing so, the features and designs of the website have been changing more and more as of late. Enjoy!
 
 # TO-DO
-- [ ] add preview to website for sharing purposes 
+- [ ] toggle dark mode (for background) ---> see [here](https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp)
+- [x] add preview to website for sharing purposes 
 - [x] Add favicon
-- [x] Particle Animations -> see [here](https://codepen.io/reeteshsudhakar/pen/YzrxGJe)
+- [x] Particle Animations ---> see [here](https://codepen.io/reeteshsudhakar/pen/YzrxGJe)
 - [x] Changing Text Descriptions
-- [x] Style Fade-in -> see [here](https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08). 
+- [x] Style Fade-in ---> see [here](https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08). 
 - [x] Update Background Information
 - [x] Fix Title Headers and Form Integration 
