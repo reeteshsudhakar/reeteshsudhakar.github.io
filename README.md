@@ -7,7 +7,8 @@ I've been recently tinkering with the website to understand more about design pr
 and JavaScript. In doing so, the features and designs of the website have been changing more and more as of late. Enjoy!
 
 # TO-DO
-- [ ] toggle dark mode (for background) ---> see [here](https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp)
+- [ ] Typewriter animation for text at the top of the landing ---> see [Issue #7](https://github.com/reeteshsudhakar/reeteshsudhakar.github.io/issues/7)
+- [ ] toggle dark mode (for background) ---> see [here](https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp) and [here](https://www.youtube.com/watch?v=gzCUq_VQ7Y8)
 - [x] add preview to website for sharing purposes 
 - [x] Add favicon
 - [x] Particle Animations ---> see [here](https://codepen.io/reeteshsudhakar/pen/YzrxGJe)
